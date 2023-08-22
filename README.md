@@ -1,1 +1,1 @@
-# CML-Discussion
+# Classical Machine Learning Book - Discussion
